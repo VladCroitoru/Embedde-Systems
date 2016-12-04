@@ -1,4 +1,4 @@
-# Embedde-Systems
+# Embedded-Systems
 ### Lab1
 
 ### Lab2
